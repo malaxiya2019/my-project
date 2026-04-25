@@ -65,6 +65,6 @@ dependencies {
     // =========================
     // 🚀 LiteRT / TensorFlow Lite
     // =========================
-    implementation("org.tensorflow:tensorflow-lite:2.14.0")
-    implementation("org.tensorflow:tensorflow-lite-api:2.14.0")
+    implementation("org.tensorflow:tensorflow-lite:2.17.0")
+    implementation("org.tensorflow:tensorflow-lite-api:2.17.0")
 }
