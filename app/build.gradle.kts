@@ -60,7 +60,7 @@ dependencies {
     // Android 核心支持
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.11.0")
+    implementation("com.google.android.material:material:1.13.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
     // 🔥 MediaPipe LLM 推理核心 (Gemma 本地运行)
